@@ -1,0 +1,21 @@
+.publish-at{
+  display: flex;
+  justify-content: space-between;
+}
+
+.health-card{
+  height: 530px;
+  margin-bottom: 20px;
+}
+
+.health-img{
+  height: 165px;
+}
+
+.author{
+  font-size: 15px;
+}
+
+.health-title{
+  height: 110px;
+}
