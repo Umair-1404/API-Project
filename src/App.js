@@ -11,7 +11,6 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredHealth, setFilteredHealth] = useState([]);
 
-  // const apiKey = 'cd656c5d185147829a87bf2ddab7a7bd';
   const apiKey = process.env.REACT_APP_API_KEY;
 
 
